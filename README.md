@@ -1,52 +1,51 @@
 # Awesome .box Projects
 
-A curated list of awesome projects built on .box domains, showcasing the innovative and diverse applications of the .box ecosystem.
+A curated list of projects built on .box domains, showcasing the innovative and diverse applications of the .box ecosystem.
 
 ## Contents
 
 - [Utilities](#utilities)
 - [Identities](#identities)
-- [Influencers](#influencers)
-- [Business / Projects](#business--projects)
+- [Businesses / Projects](#business--projects)
 - [For-Sale](#for-sale)
 - [Brands](#brands)
 
 ## Utilities
 
-- **seo.box** - SEO tools list website.
-- **tools.box** - Random group generator and other tools website.
-- **url.box** - Atomic series website (Chinese).
-- **s.box** - URL shortener.
-- **all.box** - Website tool and landing page generator.
+- **[seo.box](seo.box)** - SEO tools list website.
+- **[tools.box](tools.box)** - A box of miscellaneous tools from text tools, image tools, and more.
+- **[url.box](url.box)** - Tools for handling Atomicals NFTs.
+- **[s.box](s.box)** - URL shortener by [@bernatfp](https://www.github.com/bernatfp).
+- **[all.box](all.box)** - .box For-Sale Lander generator tool by [NameMaxi.com](NameMaxi.com).
+- **[register.box](register.box)** - Platform to mint and manage .box domains.
 
-## Identities
+## Businesses / Projects
 
-- **hax.box** - Redirect to [Horn Technology](https://www.horn.technology/).
-- **phantom.box** - Redirect to [Phantom Node on GitHub](https://github.com/phantom-node/).
-- **nest.box** - Nest box with an AI-generated background image.
-- **bing.box** - Computer science student's website exploring IPFS and .eth routing.
-- **black.box** - [Description](#).
-
-## Business / Projects
-
-- **bike.box** - Website for the League of American Bicyclists, providing resources to find local advocacy groups, bike shops, instructors, clubs, and classes.
-- **foto.box** - Platform to find and rent photo booths in Germany.
-- **brand.box** - Redirects to [Top Digital](https://top.digital/), a domain branding marketplace.
-- **nouns.box** - Redirects to [Nouns](https://nouns.wtf/), a DAO focused on making a positive impact by funding ideas and fostering collaboration.
+- **[my.box](my.box)** - Web3 domains, NFTs, and digital ID solutions.
+- **[3dns.box](3dns.box)** - On-chain domain registrar supporting various TLDs.
+- **[bike.box](bike.box)** - Website for the League of American Bicyclists, providing resources to find local advocacy groups, bike shops, instructors, clubs, and classes.
+- **[foto.box](foto.box)** - Platform to find and rent photo booths in Germany.
+- **[brand.box](brand.box)** - Redirects to [Top Digital](https://top.digital/), a domain branding marketplace.
+- **[nouns.box](nouns.wtf)** - Redirects to [Nouns](https://nouns.wtf/), a DAO focused on making a positive impact by funding ideas and fostering collaboration.
+- **[hyperdrive.box](hyperdrive.box)** - DeFi platform offering customizable yield strategies.
+- **[chain.box](chain.box)** - Landing page for the 3DNS x Optimism x .box collaboration in which .chain and .super gTLDs will be pursued in 2025.
+- **[super.box](super.box)** - Redirect to [chain.box](chain.box).
+- **[mystery.box](mystery.box)** - Mystery boxes for unique ENS/DNS names with rewards for holders. A 3DNS x Coinbase Onchain Summer collab.
 
 ## For-Sale
 
 - **yoga.box** - Yoga marketplace for both Web2 and Web3.
 - **ape.box** - Domain broker service at 58name.com.
 
-## Brands
+## Brand Redirects
 
 - **google.box** - Redirect to [Google](https://www.google.com/).
-- **visa.box** - Redirect to [Visa](https://usa.visa.com/).
+- **visa.box** - Redirect to [Visaa](https://usa.visa.com/).
 - **youtube.box** - Redirect to [YouTube](https://www.youtube.com/).
 - **linkedin.box** - Redirect to [LinkedIn](https://www.linkedin.com/).
 - **reddit.box** - Redirect to [Reddit](https://www.reddit.com/).
 - **bathandbodyworks.box** - Redirect to [Bath & Body Works](https://www.bathandbodyworks.com/).
+- 
 
 ## License Disclaimer
 
