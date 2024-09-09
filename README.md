@@ -4,11 +4,25 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 
 ## Contents
 
+- [#Awesome.box-Community-Pages](#Awesome.box-Community-Pages)
 - [Utilities](#utilities)
 - [Identities](#identities)
 - [Businesses / Projects](#business--projects)
-- [For-Sale](#for-sale)
 - [Brands](#brands)
+
+# Awesome.box Community Pages
+- **[ohms.box](ohms.box)** - My.box Community Lead.
+- **[black.box](black.box)**
+- **[hax.box](hax.box)**
+- **[phantom.box](phantom.box)**
+- **[bing.box](bing.box)**
+- **[hunter.box](hunter.box)**
+- **[mike.box](mike.box)**
+- **[smith.box](smith.box)**
+- **[stars.box](stars.box)**
+- **[mystic.box](mystic.box)**
+- **[doom.box](doom.box)**
+
 
 ## Utilities
 
@@ -17,7 +31,7 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - **[url.box](url.box)** - Tools for handling Atomicals NFTs.
 - **[s.box](s.box)** - URL shortener by [@bernatfp](https://www.github.com/bernatfp).
 - **[all.box](all.box)** - .box For-Sale Lander generator tool by [NameMaxi.com](NameMaxi.com).
-- **[register.box](register.box)** - Platform to mint and manage .box domains.
+- **[register.box](register.box)** - Website to monitor the primary and secondary sales of .box domains
 
 ## Businesses / Projects
 
@@ -28,14 +42,10 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - **[brand.box](brand.box)** - Redirects to [Top Digital](https://top.digital/), a domain branding marketplace.
 - **[nouns.box](nouns.wtf)** - Redirects to [Nouns](https://nouns.wtf/), a DAO focused on making a positive impact by funding ideas and fostering collaboration.
 - **[hyperdrive.box](hyperdrive.box)** - DeFi platform offering customizable yield strategies.
+- **[snapshot.box](snapshot.box)** - A fully integrated suite to manage DAO governance.
 - **[chain.box](chain.box)** - Landing page for the 3DNS x Optimism x .box collaboration in which .chain and .super gTLDs will be pursued in 2025.
 - **[super.box](super.box)** - Redirect to [chain.box](chain.box).
 - **[mystery.box](mystery.box)** - Mystery boxes for unique ENS/DNS names with rewards for holders. A 3DNS x Coinbase Onchain Summer collab.
-
-## For-Sale
-
-- **yoga.box** - Yoga marketplace for both Web2 and Web3.
-- **ape.box** - Domain broker service at 58name.com.
 
 ## Brand Redirects
 
