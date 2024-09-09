@@ -53,7 +53,6 @@ A collection of awesome .box domains being used for awesome purposes.
 - **linkedin.box** - Redirect to [LinkedIn](https://www.linkedin.com/).
 - **reddit.box** - Redirect to [Reddit](https://www.reddit.com/).
 - **bathandbodyworks.box** - Redirect to [Bath & Body Works](https://www.bathandbodyworks.com/).
-- 
 
 ## License Disclaimer
 
