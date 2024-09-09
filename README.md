@@ -10,7 +10,7 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - [Businesses / Projects](#businesses-/-projects)
 - [Brands](#brand-redirects)
 
-## Awesome.box Community Pages
+## Community
 - **[ohms.box](ohms.box)** - My.box Community Lead.
 - **[black.box](black.box)**
 - **[hax.box](hax.box)**
@@ -22,7 +22,6 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - **[stars.box](stars.box)**
 - **[mystic.box](mystic.box)**
 - **[doom.box](doom.box)**
-
 
 ## Utilities
 
@@ -46,6 +45,9 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - **[chain.box](chain.box)** - Landing page for the 3DNS x Optimism x .box collaboration in which .chain and .super gTLDs will be pursued in 2025.
 - **[super.box](super.box)** - Redirect to [chain.box](chain.box).
 - **[mystery.box](mystery.box)** - Mystery boxes for unique ENS/DNS names with rewards for holders. A 3DNS x Coinbase Onchain Summer collab.
+- **[stars.box](stars.box)** - 
+- **[mystic.box](mystic.box)** - 
+- **[doom.box](doom.box)** -
 
 ## Brand Redirects
 
