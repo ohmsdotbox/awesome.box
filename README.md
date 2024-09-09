@@ -5,10 +5,10 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 ## Contents
 
 - [#Awesome.box-Community-Pages](#awesome.box-community-pages)
+- [Community](#community)
 - [Utilities](#utilities)
-- [Identities](#identities)
-- [Businesses / Projects](#businesses-/-projects)
-- [Brands](#brand-redirects)
+- [Projects](#projects)
+- [Brands](#brands)
 
 ## Community
 - **[ohms.box](ohms.box)** - My.box Community Lead.
@@ -32,7 +32,7 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - **[all.box](all.box)** - .box For-Sale Lander generator tool by [NameMaxi.com](NameMaxi.com).
 - **[register.box](register.box)** - Website to monitor the primary and secondary sales of .box domains
 
-## Businesses / Projects
+## Projects
 
 - **[my.box](my.box)** - Web3 domains, NFTs, and digital ID solutions.
 - **[3dns.box](3dns.box)** - On-chain domain registrar supporting various TLDs.
@@ -45,11 +45,8 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 - **[chain.box](chain.box)** - Landing page for the 3DNS x Optimism x .box collaboration in which .chain and .super gTLDs will be pursued in 2025.
 - **[super.box](super.box)** - Redirect to [chain.box](chain.box).
 - **[mystery.box](mystery.box)** - Mystery boxes for unique ENS/DNS names with rewards for holders. A 3DNS x Coinbase Onchain Summer collab.
-- **[stars.box](stars.box)** - 
-- **[mystic.box](mystic.box)** - 
-- **[doom.box](doom.box)** -
 
-## Brand Redirects
+## Brands
 
 - **google.box** - Redirect to [Google](https://www.google.com/).
 - **visa.box** - Redirect to [Visaa](https://usa.visa.com/).
