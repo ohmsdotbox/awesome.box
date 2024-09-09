@@ -4,13 +4,13 @@ A curated list of projects built on .box domains, showcasing the innovative and 
 
 ## Contents
 
-- [#Awesome.box-Community-Pages](#Awesome.box-Community-Pages)
+- [#Awesome.box-Community-Pages](#awesome.box-community-pages)
 - [Utilities](#utilities)
 - [Identities](#identities)
-- [Businesses / Projects](#business--projects)
-- [Brands](#brands)
+- [Businesses / Projects](#businesses-/-projects)
+- [Brands](#brand-redirects)
 
-# Awesome.box Community Pages
+## Awesome.box Community Pages
 - **[ohms.box](ohms.box)** - My.box Community Lead.
 - **[black.box](black.box)**
 - **[hax.box](hax.box)**
