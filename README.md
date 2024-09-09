@@ -1,10 +1,9 @@
 # Awesome .box Projects
 
-A curated list of projects built on .box domains, showcasing the innovative and diverse applications of the .box ecosystem.
+A collection of awesome .box domains being used for awesome purposes.
 
 ## Contents
 
-- [#Awesome.box-Community-Pages](#awesome.box-community-pages)
 - [Community](#community)
 - [Utilities](#utilities)
 - [Projects](#projects)
