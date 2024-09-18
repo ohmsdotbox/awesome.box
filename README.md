@@ -1,6 +1,6 @@
 # Awesome .box Projects
 
-A collection of awesome .box domains being used for awesome purposes.
+An awesome list of awesome .box domains being used for awesome purposes.
 
 ## Contents
 
