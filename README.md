@@ -2,13 +2,6 @@
 
 An awesome list of awesome .box domains being used for awesome purposes.
 
-## Contents
-
-- [Community](#community)
-- [Utilities](#utilities)
-- [Projects](#projects)
-- [Brands](#brands)
-
 ## Community
 - [ohms.box](https://ohms.box) - My.box Community Lead.
 - [black.box](https://black.box)
