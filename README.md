@@ -1,4 +1,4 @@
-# Awesome .box Projects
+# awesome.box-list
 
 An awesome list of awesome .box domains being used for awesome purposes.
 
