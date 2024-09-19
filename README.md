@@ -1,6 +1,6 @@
 # awesome.box-list
 
-An awesome list of awesome .box domains being used for awesome purposes.
+An awesome list of awesome .box domains being used for awesome purposes. <a href="placeholder.com" target="_blank">Opens in new tab</a>
 
 ## Community
 - [ohms.box](https://ohms.box) - My.box Community Lead.
