@@ -16,6 +16,53 @@
             margin-right: auto;
             width: 100%; /* Adjust this if you want a specific width */
         }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .floating-hexagon {
+            position: fixed;
+            right: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 150px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            font-size: 0.9em;
+            z-index: 999;
+        }
+
+        /* Styling for the ASCII hexagon */
+        .hexagon {
+            font-family: monospace;
+            line-height: 1.2em;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #e0e0e0;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .hexagon a {
+            text-decoration: underline;
+            color: #007bff;
+        }
+
+        /* Floating effect */
+        .cta1 {
+            top: 100px;
+        }
+
+        .cta2 {
+            top: 250px;
+        }
     </style>
 </head>
 <body>
@@ -23,30 +70,25 @@
     <!-- Banner Image -->
     <img src="/awesome.box.png" alt="awesome.box banner" class="banner">
 
-<h1>awesome.box-list</h1>
-<p>An awesome list of awesome .box domains being used for awesome purposes.</p>
+    <h1>awesome.box-list</h1>
+    <p>An awesome list of awesome .box domains being used for awesome purposes.</p>
 
-<div style="margin-top: 20px;">
-    <!-- First Call-to-Action (low-key paragraph style) -->
-    <p style="font-size: 0.9em;">
-        <p>Want to get your .box project listed here?</p> 
-        <a href="https://guild.xyz/box/build-with-box" target="_blank" style="text-decoration: underline; color: #007bff;">
-            Get access to the awesome.box repo
-        </a>
-    </p>
+    <!-- Floating Hexagons -->
+    <div class="floating-hexagon cta1">
+        <div class="hexagon">
+            <p>Want to get your .box project listed here?</p>
+            <a href="https://guild.xyz/box/build-with-box" target="_blank">Get access to the awesome.box repo</a>
+        </div>
+    </div>
 
-    <!-- Second Call-to-Action (low-key paragraph style) -->
-    <p style="font-size: 0.9em;">
-        <p>Don't have a .box yet?</p> 
-        <a href="https://site.my.box/?domain=ohms.box&ref=3ac872" target="_blank" style="text-decoration: underline; color: #007bff;">
-            Get one today at my.box
-        </a>
-    </p>
-</div>
+    <div class="floating-hexagon cta2">
+        <div class="hexagon">
+            <p>Don't have a .box yet?</p>
+            <a href="https://site.my.box/?domain=ohms.box&ref=3ac872" target="_blank">Get one today at my.box</a>
+        </div>
+    </div>
 
-
-
-<h2>community</h2>
+    <h2>community</h2>
 <ul>
     <li><a href="https://ohms.box" target="_blank">ohms.box</a> - My.box Community Lead.</li>
     <li><a href="https://black.box" target="_blank">black.box</a></li>
