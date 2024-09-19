@@ -7,16 +7,8 @@
 
     <!-- Link to Favicon -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="32x32"/>
-    
-    <style>
-        /* Add some styling to center and adjust the image if needed */
-        .banner {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 100%; /* Adjust this if you want a specific width */
-        }
 
+    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -29,39 +21,36 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            width: 150px;
+            width: 250px;
             padding: 10px;
-            background-color: #f0f0f0;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            font-family: monospace;
+            color: #333;
             text-align: center;
-            font-size: 0.9em;
             z-index: 999;
         }
 
-        /* Styling for the ASCII hexagon */
         .hexagon {
+            white-space: pre; /* Preserve ASCII formatting */
             font-family: monospace;
             line-height: 1.2em;
             margin-bottom: 20px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
             padding: 15px;
-            background-color: #e0e0e0;
-            border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
-        .hexagon a {
-            text-decoration: underline;
-            color: #007bff;
-        }
-
-        /* Floating effect */
         .cta1 {
             top: 100px;
         }
 
         .cta2 {
-            top: 250px;
+            top: 300px;
+        }
+
+        .hexagon a {
+            text-decoration: underline;
+            color: #007bff;
         }
     </style>
 </head>
@@ -73,22 +62,35 @@
     <h1>awesome.box-list</h1>
     <p>An awesome list of awesome .box domains being used for awesome purposes.</p>
 
-    <!-- Floating Hexagons -->
+    <!-- Floating Hexagons with ASCII Hexagon Shape -->
     <div class="floating-hexagon cta1">
         <div class="hexagon">
-            <p>Want to get your .box project listed here?</p>
-            <a href="https://guild.xyz/box/build-with-box" target="_blank">Get access to the awesome.box repo</a>
+            +--------------------+<br>
+           /                          \ <br>
+          /   Want to get your   \ <br>
+         /   .box project listed?   \ <br>
+         +--------------------+<br>
+          \  <a href="https://guild.xyz/box/build-with-box" target="_blank">Get access to awesome.box repo</a>  /<br>
+           \                        /<br>
+            +--------------------+
         </div>
     </div>
 
     <div class="floating-hexagon cta2">
         <div class="hexagon">
-            <p>Don't have a .box yet?</p>
-            <a href="https://site.my.box/?domain=ohms.box&ref=3ac872" target="_blank">Get one today at my.box</a>
+            +-------------------+<br>
+           /                          \ <br>
+          /    Don't have a .box?   \ <br>
+         /   Get one today at my.box   \ <br>
+         +-------------------+<br>
+          \  <a href="https://site.my.box/?domain=ohms.box&ref=3ac872" target="_blank">Get one at my.box</a>  /<br>
+           \                        /<br>
+            +-------------------+
         </div>
     </div>
 
     <h2>community</h2>
+
 <ul>
     <li><a href="https://ohms.box" target="_blank">ohms.box</a> - My.box Community Lead.</li>
     <li><a href="https://black.box" target="_blank">black.box</a></li>
