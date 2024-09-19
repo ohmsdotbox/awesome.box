@@ -7,29 +7,54 @@
 
     <!-- Link to Favicon -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="32x32"/>
-    
-    <style>
-        /* Add some styling to center and adjust the image if needed */
-        .banner {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 100%; /* Adjust this if you want a specific width */
-        }
 
+    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
         }
 
+        /* Style for banner */
+        .banner {
+            display: block;
+            margin: 0 auto;
+            width: 100%; /* Adjust this if you want a specific width */
+            max-width: 600px;
+        }
+
+        /* Improve readability and layout for smaller devices */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            h1, p {
+                text-align: left;
+                padding: 0 10px;
+            }
+
+            ul {
+                padding-left: 15px;
+            }
+
+            /* Make the floating cards more mobile friendly */
+            .floating-hexagon {
+                position: static;
+                margin-bottom: 20px;
+                width: 100%; /* Full width for mobile */
+                padding: 10px;
+            }
+        }
+
+        /* Floating card styles */
         .floating-hexagon {
             position: fixed;
             right: 20px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            width: 150px;
+            width: 250px;
             padding: 10px;
             background-color: #f0f0f0;
             border-radius: 10px;
@@ -39,15 +64,12 @@
             z-index: 999;
         }
 
-        /* Styling for the ASCII hexagon */
-        .hexagon {
-            font-family: monospace;
-            line-height: 1.2em;
-            margin-bottom: 20px;
-            padding: 15px;
-            background-color: #e0e0e0;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        .cta1 {
+            top: 100px;
+        }
+
+        .cta2 {
+            top: 300px;
         }
 
         .hexagon a {
@@ -55,13 +77,23 @@
             color: #007bff;
         }
 
-        /* Floating effect */
-        .cta1 {
-            top: 100px;
-        }
+        /* Adjust font size and spacing for smaller devices */
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5em;
+            }
 
-        .cta2 {
-            top: 250px;
+            p {
+                font-size: 1em;
+            }
+
+            .floating-hexagon {
+                font-size: 0.8em;
+            }
+
+            ul {
+                padding-left: 10px;
+            }
         }
     </style>
 </head>
