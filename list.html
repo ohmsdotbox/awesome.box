@@ -17,9 +17,9 @@
 
         .banner {
             display: block;
-            margin-left: auto;
-            margin-right: auto;
+            margin: 0 auto;
             width: 100%; /* Adjust this if you want a specific width */
+            max-width: 600px;
         }
 
         h1, p {
@@ -45,7 +45,12 @@
         }
 
         ul {
-            padding-left: 15px; /* Brings the list closer to the left side */
+            padding-left: 15px;
+        }
+
+        ul li {
+            margin-bottom: 10px; /* Add spacing between each list item */
+            line-height: 1.5; /* Increase line height for better readability */
         }
 
         /* Responsive adjustments for mobile */
@@ -68,6 +73,12 @@
 
             .cta-links a {
                 font-size: 0.9em; /* Slightly smaller text for CTA links on mobile */
+            }
+
+            ul li {
+                margin-bottom: 15px; /* Add more spacing between list items on mobile */
+                line-height: 1.7; /* Increase line height on mobile for readability */
+                font-size: 0.9em; /* Make the text size slightly smaller on mobile */
             }
         }
     </style>
