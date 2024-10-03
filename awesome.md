@@ -14,7 +14,7 @@ To get your .box project listed on the awesome.box webpage, follow these instruc
 2. **Project Details**:
    - Provide a working link to your .box project.
    - Add a brief but meaningful description of the project.
-   - Double-check that the link and description are accurate.
+   - Double-check that the link is functioning and the description is accurate.
 
 3. **Approval Process**:
    - I (ohms.box) will review and approve the pull request, or make tweaks as necessary.
@@ -28,7 +28,3 @@ Further support with sprucing up the HTML file, enhancing descriptions, or any o
 ## License
 
 This repository is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. For more information, see the [LICENSE](LICENSE) file.
-
-## License Disclaimer
-
-The projects listed in this repository are external projects and are governed by their own respective licenses. The inclusion of a project in this list does not imply that it is licensed under the same terms as this repository. Please refer to each project's own repository for detailed licensing information.
